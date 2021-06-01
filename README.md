@@ -55,7 +55,7 @@ locations and schedules, based on the user location.
 
 
 ## 📊 Fancy stats
-[![](https://github-readme-stats.vercel.app/api?username=benyaming)](https://github.com/anuraghazra)
+[![](https://github-readme-stats.vercel.app/api?username=benyaming)](https://github.com/benyaming)
 
 
 
