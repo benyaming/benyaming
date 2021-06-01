@@ -54,6 +54,11 @@ The bot provides real time information and updates on buses
 locations and schedules, based on the user location.
 
 
+## 📊 Fancy stats
+[![](https://github-readme-stats.vercel.app/api?username=benyaming)](https://github.com/anuraghazra)
+
+
+
 ## 🤝 Connect with me  
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benyaming/) 
 [![vas3k.com](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/benyomin)
