@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Benyamin
 
-- 🇮🇱  I live in Petah Tikva, Israel
+- 🇮🇱  I live in Israel
 - 📲 I'm currently working in [Appcard](https://appcard.com/)
-- 🐍 Most of the time I'm writing on Python and Kotlin. Sometimes JS/TS and Java, when I need to
+- 🐍 Most of the time I'm writing on Python. Sometimes JS/TS and Kotlin/Java, when I need to
 - 🚀 I love pet-projects! They help me grow professionally all my life 
 
 #### My CV: Download [PDF](https://github.com/benyaming/benyaming/raw/main/benyamin_ginzburg_python_backend_developer.pdf) / [DOCX](https://github.com/benyaming/benyaming/raw/main/benyamin_ginzburg_python_backend_developer.docx)
