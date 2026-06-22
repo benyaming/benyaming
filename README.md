@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Benyamin
 
 - 🇮🇱  I live in Israel
-- 📲 I'm currently working in [Appcard](https://appcard.com/)
 - 🐍 Most of the time I'm writing on Python. Sometimes JS/TS and Kotlin/Java, when I need to
 - 🚀 I love pet-projects! They help me grow professionally all my life 
 
